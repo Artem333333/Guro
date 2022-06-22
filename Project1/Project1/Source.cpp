@@ -1,5 +1,10 @@
 #include <iostream>
 using namespace std;
+
+/// <summary>
+/// добавлен комментарий
+/// </summary>
+/// <returns></returns>
 int main() {
 	int arr[15], n;
 	cout << "input n";
