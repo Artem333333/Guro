@@ -2,7 +2,7 @@
 using namespace std;
 
 /// <summary>
-/// добавлен комментарий
+/// добавлен комментарий 111
 /// </summary>
 /// <returns></returns>
 int main() {
